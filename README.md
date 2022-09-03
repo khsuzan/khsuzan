@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat-Bold&duration=58000&pause=1000&width=435&lines=App+Developer+%7C+Learner+%7C+Mentor)](https://git.io/typing-svg)
+
 <!--
 **khsuzan/khsuzan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
