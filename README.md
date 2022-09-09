@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=khsuzan&style=flat-square)
 ### Hi there, I'm Kawsar 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat-Bold&duration=5800&pause=1000&width=435&lines=App+Developer+%7C+Learner+%7C+Mentor)](https://git.io/typing-svg)
