@@ -1,6 +1,7 @@
-<h2 align="center">Hi there, I'm Kawsar Hossain 👋
+<h2 align="center">Hi there, I'm Kawsar Hossain 👋</h2>
+<span align="center>
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat-Bold&duration=5800&pause=1000&width=435&lines=App+Developer+%7C+Learner+%7C+Mentor)
-</h2>
+</span>
 
 
 #### Favourites IDE/ Code Editor
