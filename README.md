@@ -8,24 +8,24 @@
 
 #### Android App Development
 ![My Skills](https://skillicons.dev/icons?i=kotlin,java,reactivex&theme=light)
+<h2></h2>
 
-------------
 #### CrossPlatform App Development
 ![My Skills](https://skillicons.dev/icons?i=dart,flutter&theme=light)
+<h2></h2>
 
-------------
 #### Web Development (FrontEnd)|
 ![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,nextjs,bootstrap,tailwind,materialui&theme=light)
+<h2></h2>
 
-------------
 #### Web Development (BackEnd)|
 ![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,sqlite,mysql,mongodb&theme=light)
+<h2></h2>
 
-------------
 #### Version Controll System & Tools
 ![My Skills](https://skillicons.dev/icons?i=git,github,gitlab&theme=light)
+<h2></h2>
 
-------------
 #### Graphic Tools
 ![My Skills](https://skillicons.dev/icons?i=ae,xd,figma,ai,photoshop,blender&theme=light)
 
