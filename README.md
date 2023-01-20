@@ -1,13 +1,12 @@
 <h2 align="center">Hi there, I'm Kawsar Hossain 👋</h2>
-<span align="center>
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat-Bold&duration=5800&pause=1000&width=435&lines=App+Developer+%7C+Learner+%7C+Mentor)
-</span>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat-Bold&duration=5800&pause=1000&width=435&center=true&lines=App+Developer+%7C+Learner+%7C+Mentor)
 
 
 #### Favourites IDE/ Code Editor
 ![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,idea,&theme=light)
 
-------------
+---
 #### Android App Development
 ![My Skills](https://skillicons.dev/icons?i=kotlin,java,reactivex&theme=light)
 
