@@ -6,12 +6,10 @@
 | ------|
 | Favourites IDE/ Code Editor|
 |![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,idea,&theme=light) |
-|       | 
-| ------|
+
 |Android App Development|
 |![My Skills](https://skillicons.dev/icons?i=kotlin,java,reactivex&theme=light)|
-|       | 
-| ------|
+
 | CrossPlatform App Development|
 |![My Skills](https://skillicons.dev/icons?i=dart,flutter&theme=light)|
 |       | 
