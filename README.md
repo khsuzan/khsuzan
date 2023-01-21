@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=1000&height=100&lines=Kawsar+Hossain+Suzan;App+Developer;Web+Developer)](https://git.io/typing-svg)
 
-#### Favourites IDE/ Code Editor
+#### Favourite IDE's/ Code Editors
 ![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,idea,&theme=light)
 <h2></h2>
 
