@@ -5,12 +5,12 @@ I'm Kawsar Hossain Suzan, a passionate software developer with expertise in mobi
 ## Android Application Development 📱
 
 - 🌟 Proficient in Java and Kotlin.
-- 🚀 Developed [App Name], a [brief description].
+- 🚀 Developed Several applications.
 - 💡 Experience with Android Studio and the latest Android SDKs.
 
 ## Cross-Platform Development with Flutter 💙
 
-- 🌐 Built [App Name], a cross-platform app using Flutter.
+- 🌐 Built Sevaral Commercial apps, a cross-platform app using Flutter.
 - 🎨 Created beautiful and responsive user interfaces with Flutter's widgets.
 - 🛠️ Expertise in state management with providers and bloc pattern.
 
@@ -29,9 +29,8 @@ I'm Kawsar Hossain Suzan, a passionate software developer with expertise in mobi
 ## Let's Connect 📫
 
 - 👥 Open to collaboration on exciting projects.
-- 📧 Reach out to me via [Email Address].
-- 💬 Connect with me on [LinkedIn].
-- 🌐 Visit my portfolio at [Your Portfolio Website].
+- 📧 Reach out to me via appdev.kawsar@gmail.com.
+- 💬 Connect with me on [[LinkedIn]](https://www.linkedin.com/in/khsuzan/).
 
 Feel free to explore my GitHub repositories to see some of my recent projects and contributions. Don't hesitate to reach out if you have any questions or opportunities for collaboration!
 
