@@ -1,11 +1,10 @@
 # Hi there! 👋
 
-I'm Kawsar Hossain Suzan, a passionate software developer with expertise in mobile app development, cross-platform development, and web application development. Here are some of the skills and technologies I specialize in:
+I'm Kawsar Hossain Suzan, a passionate software developer with expertise in mobile app development, cross-platform development, and web application development. Here are some of the skills that I really loved and work with:
 
 ## Android Application Development 📱
 
 - 🌟 Proficient in Java and Kotlin.
-- 🚀 Developed Several applications.
 - 💡 Experience with Android Studio and the latest Android SDKs.
 
 ## Cross-Platform Development with Flutter 💙
@@ -20,20 +19,15 @@ I'm Kawsar Hossain Suzan, a passionate software developer with expertise in mobi
 - 🎯 Expertise in component-based architecture and Redux for state management.
 - 💻 Proficient in HTML, CSS, and JavaScript.
 
-## Back-End Development with Laravel 🚀
-
-- 🌐 Built robust and scalable back-end APIs using Laravel.
-- 🗃️ Worked with databases including MySQL and PostgreSQL.
-- 🔒 Implemented authentication and authorization for secure applications.
+## In My Learning Period What I Explored So Far!
+![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,idea,kotlin,java,reactivex,dart,flutter,html,css,sass,js,ts,react,redux,nextjs,bootstrap,tailwind,materialui,nodejs,express,nestjs,php,laravel,sqlite,mysql,mongodb,git,github,gitlab,ae,xd,figma,ai,photoshop,blender&theme=light)
 
 ## Let's Connect 📫
 
 - 👥 Open to collaboration on exciting projects.
 - 📧 Reach out to me via appdev.kawsar@gmail.com.
-- 💬 Connect with me on [[LinkedIn]](https://www.linkedin.com/in/khsuzan/).
+- 💬 Connect with me on  [LinkedIn](https://www.linkedin.com/in/khsuzan/).
 
 Feel free to explore my GitHub repositories to see some of my recent projects and contributions. Don't hesitate to reach out if you have any questions or opportunities for collaboration!
 
-## Other
-![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,idea,kotlin,java,reactivex,dart,flutter,html,css,sass,js,ts,react,redux,nextjs,bootstrap,tailwind,materialui,nodejs,express,nestjs,php,laravel,sqlite,mysql,mongodb,git,github,gitlab,ae,xd,figma,ai,photoshop,blender&theme=light)
-
+**Thankyou**
