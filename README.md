@@ -20,7 +20,7 @@ I'm Kawsar Hossain Suzan, a passionate software developer with expertise in mobi
 - 💻 Proficient in HTML, CSS, and JavaScript.
 
 ## In My Learning Period What I Explored So Far!
-![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,idea,kotlin,java,reactivex,dart,flutter,html,css,sass,js,ts,react,redux,nextjs,bootstrap,tailwind,materialui,nodejs,express,nestjs,php,laravel,sqlite,mysql,mongodb,git,github,gitlab,ae,xd,figma,ai,photoshop,blender&theme=light)
+Never stop to learn!
 
 ## Let's Connect 📫
 
