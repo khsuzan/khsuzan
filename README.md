@@ -25,7 +25,7 @@ Never stop to learn!
 ## Let's Connect 📫
 
 - 👥 Open to collaboration on exciting projects.
-- 📧 Reach out to me via appdev.kawsar@gmail.com.
+- 📧 Reach out to me via diu.kawsar@gmail.com.
 - 💬 Connect with me on  [LinkedIn](https://www.linkedin.com/in/khsuzan/).
 
 Feel free to explore my GitHub repositories to see some of my recent projects and contributions. Don't hesitate to reach out if you have any questions or opportunities for collaboration!
