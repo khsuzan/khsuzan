@@ -1,33 +1,21 @@
-# Hi there! 👋
+# Kawsar Hossain Suzan
 
-I'm Kawsar Hossain Suzan, a passionate software developer with expertise in mobile app development, cross-platform development, and web application development. Here are some of the skills that I really loved and work with:
+**Flutter Developer | Native Android Developer**
 
-## Android Application Development 📱
+Mobile application developer experienced in building scalable, production-ready Android and cross-platform applications.
 
-- 🌟 Proficient in Java and Kotlin.
-- 💡 Experience with Android Studio and the latest Android SDKs.
+### Core Skills
 
-## Cross-Platform Development with Flutter 💙
+- **Flutter & Dart** — BLoC, Provider, GetX, Clean Architecture
+- **Android** — Kotlin, Java, Jetpack Compose, MVVM, Hilt
+- **Mobile** — REST APIs, Offline-first, Responsive UI, Performance Optimization
+- **Backend & Services** — Supabase, Firebase, PostgreSQL
+- **Other** — Git, Gradle, React.js, JavaScript
 
-- 🌐 Built Sevaral Commercial apps, a cross-platform app using Flutter.
-- 🎨 Created beautiful and responsive user interfaces with Flutter's widgets.
-- 🛠️ Expertise in state management with providers and bloc pattern.
+### Currently Exploring
 
-## Front-End Development with React.js ⚛️
+AI-powered applications, LLM integrations, developer tools, and advanced mobile architecture.
 
-- 🌐 Developed interactive and dynamic web applications using React.js.
-- 🎯 Expertise in component-based architecture and Redux for state management.
-- 💻 Proficient in HTML, CSS, and JavaScript.
+### Connect
 
-## In My Learning Period What I Explored So Far!
-Never stop to learn!
-
-## Let's Connect 📫
-
-- 👥 Open to collaboration on exciting projects.
-- 📧 Reach out to me via diu.kawsar@gmail.com.
-- 💬 Connect with me on  [LinkedIn](https://www.linkedin.com/in/khsuzan/).
-
-Feel free to explore my GitHub repositories to see some of my recent projects and contributions. Don't hesitate to reach out if you have any questions or opportunities for collaboration!
-
-**Thankyou**
+[LinkedIn](https://www.linkedin.com/in/khsuzan/) · [Email](mailto:diu.kawsar@gmail.com)
